@@ -17,7 +17,7 @@
 
 ## Introduction
 
-[Cerebrum](https://github.com/TharunRajeev) is a half-baked open-source Notion-style WYSIWYG editor with AI-powered autocompletions. If you're looking for a quarter-baked version, check out [Novel](https://novel.sh).
+[Cerebrum](https://cerebrumnote.netlify.app/) is a half-baked open-source Notion-style WYSIWYG editor with AI-powered autocompletions. If you're looking for a quarter-baked version, check out [Novel](https://novel.sh).
 
 <br />
 
